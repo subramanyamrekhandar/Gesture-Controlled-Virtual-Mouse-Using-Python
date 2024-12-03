@@ -10,68 +10,7 @@ Note: Use Python version: 3.8.5
 # Features
  _click on dropdown to know more_ <br>
 
-### Gesture Recognition:
-<details>
-<summary>Neutral Gesture</summary>
- <figure>
-  <figcaption>Neutral Gesture. Used to halt/stop execution of current gesture.</figcaption>
-</figure>
-</details>
- 
 
-<details>
-<summary>Move Cursor</summary>
-  <br>
-  <figcaption>Cursor is assigned to the midpoint of index and middle fingertips. This gesture moves the cursor to the desired location. Speed of the cursor movement is proportional to the speed of hand.</figcaption>
-</details>
-
-<details>
-<summary>Left Click</summary>
-<br>
- <figcaption>Gesture for single left click</figcaption>
-</details>
-
-<details>
-<summary>Right Click</summary>
-<br>
- <figcaption>Gesture for single right click</figcaption>
-</details>
-
-<details>
-<summary>Double Click</summary>
-<br>
- <figcaption>Gesture for double click</figcaption>
-</details>
-
-<details>
-<summary>Scrolling</summary>
-<br>
- <figcaption>Dynamic Gestures for horizontal and vertical scroll. The speed of scroll is proportional to the distance moved by pinch gesture from start point. Vertical and Horizontal scrolls are controlled by vertical and horizontal pinch movements respectively.</figcaption>
-</details>
-
-<details>
-<summary>Drag and Drop</summary>
-<br>
- <figcaption>Gesture for drag and drop functionality. Can be used to move/tranfer files from one directory to other.</figcaption>
-</details>
-
-<details>
-<summary>Multiple Item Selection</summary>
-<br>
- <figcaption>Gesture to select multiple items</figcaption>
-</details>
-
-<details>
-<summary>Volume Control</summary>
-<br>
- <figcaption>Dynamic Gestures for Volume control. The rate of increase/decrease of volume is proportional to the distance moved by pinch gesture from start point. </figcaption>
-</details>
-
-<details>
-<summary>Brightness Control</summary>
-<br>
- <figcaption>Dynamic Gestures for Brightness control. The rate of increase/decrease of brightness is proportional to the distance moved by pinch gesture from start point. </figcaption>
-</details>
 
 ### Voice Assistant ( ***Proton*** ):
 <details>
